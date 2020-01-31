@@ -1,0 +1,43 @@
+ebook_metadata:
+  title: བྱང་ཆུབ་ལམ་སྒྲོན་
+  authors:
+  - མཛད་པ་པོ། ༧རྒྱལ་ཚབ་གྲགས་པ་དོན་གྲུབ་དང་། འཇམ་མགོན་བློ་གྲོས་མཐའ་ཡས།
+  sku: VVI-001
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Bright Light for the Path to Enlightenment:A Quintessential Commentary to
+      Atisha’s Lamp for the Path to Enlightenment
+    bo: བྱང་ཆུབ་ལམ་སྒྲོན་གྱི་འགྲེལ་བ་མར་གྱི་ཉིང་ཁུ་དང་། བྱང་ཆུབ་ལམ་གྱི་སྣང་བ་རབ་ཏུ་གསལ་བ།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 1
+    bo: ''
+  author:
+    en: Authors:Gyaltsap Drakpa Dondup,Jamgon Kongtrul Lodro Thaye
+    bo: ''
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: ''
+  sku: VVI-001
+  category:
+    en: Stages of the Path
+    bo: ལམ་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-001.epub
+  description:
+    en: ༄༅། །གཞུང་འདིའི་མཛད་པ་པོ་ཇོ་བོ་རྗེ་ལྷ་གཅིག་གི་ཐུགས་ཀྱི་དགོངས་པ་ཙེན་གྱིས་ཕྱག་ལེན་དུ་ཐེབས་པ་དགེ་བཤེས་སྟོན་པའི་བཤད་སྲོལ་དགེ་བཤེས་ཆེན་པོ་པོ་ཏོ་བ་ལས་བརྒྱུད་དེ་ཉིད་ཀྱི་སློབ་མའི་མཆོག་དགེ་བའི་བཤེས་གཉེན་ཤ་ར་བ་ཆེན་པོ་ལས་ཡོན་ཏན་གྲགས།
+      མཚན་གྱི་རྣམ་གྲངས་དགེ་བཤེས་ཤ་ར་བའམ་ཞང་རོམ་མོ་བར་ཡང་གྲགས་པའི་གསུང་སྒྲོས་ཀྱི་འགྲེལ་བ་དག་ལས་ཇི་སྐད་འབྱུང་བའི་ཚིག་དང་དོན་གྱི་ཆ་ཅུང་ཟད་ཅིག་བསྡུས་ཏེ་བཤད་པ་ཡིན་ནོ།
+      །
+    bo: ༄༅། །གཞུང་འདིའི་མཛད་པ་པོ་ཇོ་བོ་རྗེ་ལྷ་གཅིག་གི་ཐུགས་ཀྱི་དགོངས་པ་ཙེན་གྱིས་ཕྱག་ལེན་དུ་ཐེབས་པ་དགེ་བཤེས་སྟོན་པའི་བཤད་སྲོལ་དགེ་བཤེས་ཆེན་པོ་པོ་ཏོ་བ་ལས་བརྒྱུད་དེ་ཉིད་ཀྱི་སློབ་མའི་མཆོག་དགེ་བའི་བཤེས་གཉེན་ཤ་ར་བ་ཆེན་པོ་ལས་ཡོན་ཏན་གྲགས།
+      མཚན་གྱི་རྣམ་གྲངས་དགེ་བཤེས་ཤ་ར་བའམ་ཞང་རོམ་མོ་བར་ཡང་གྲགས་པའི་གསུང་སྒྲོས་ཀྱི་འགྲེལ་བ་དག་ལས་ཇི་སྐད་འབྱུང་བའི་ཚིག་དང་དོན་གྱི་ཆ་ཅུང་ཟད་ཅིག་བསྡུས་ཏེ་བཤད་པ་ཡིན་ནོ།
+      །
